@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 dirs = "5.0.1"
+regex = "1.10.5"
